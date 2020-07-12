@@ -6,4 +6,4 @@ This project is created using Java and mySQL as a backend.
   - Also i provide the different event so you can join the event as well.
   - This project contain the Gallrey page, About page, Contact-us page and more.
 
-**Basicsally this site creat for tavelling perpose. You can book the travelling package online at anytime and anywhere.**
+**Basically this site create for tavelling perpose. You can book the travelling package online at anytime and anywhere.**
